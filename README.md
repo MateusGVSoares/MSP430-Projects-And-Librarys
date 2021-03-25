@@ -74,8 +74,12 @@
   - Uses an external clock to generate a clock wave with specific configurable proprieties.
 
     - *Timer_0 Block* :
-      - 	Receives the signal from Auxiliary Timer Block to make an adjustable counting for generate a clock wave. 
+      
+      - Receives the signal from Auxiliary Timer Block to make an 
+      
+        adjustable counting for generate a clock wave. 
     - *Capture / Compare Block (Part of Timer_0 Block)* :
+      
       - Uses the signal of Auxiliary Timer Block and interruptions to generate a clock wave with 1 Hertz frequency.
 
   - A four by four membrane keyboard is used for the keyboard block.
