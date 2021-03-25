@@ -1,0 +1,7 @@
+main.pbi: \
+  D:\Usuário\Area\ De\ Trabalho\CEFETMG\JK\Quarto\ BIMESTER\Trabalho\ Final\ -\ Ana\ C\ -\ Gustavo\ G\ -\ Mateus\ G\main.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc\io430.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/io430f1121.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/intrinsics.h \
+  D:\Usuário\Area\ De\ Trabalho\CEFETMG\JK\Quarto\ BIMESTER\Trabalho\ Final\ -\ Ana\ C\ -\ Gustavo\ G\ -\ Mateus\ G/BIBLIOTECA_LCM.h \
+  D:\Usuário\Area\ De\ Trabalho\CEFETMG\JK\Quarto\ BIMESTER\Trabalho\ Final\ -\ Ana\ C\ -\ Gustavo\ G\ -\ Mateus\ G/BIBLIOTECA_TECLADO.h
